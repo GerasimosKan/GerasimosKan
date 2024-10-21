@@ -1,4 +1,4 @@
-🚀 Gerasimos Kanellatos - Developer of Things 🛠️
+#🚀 Gerasimos Kanellatos - Developer of Things 🛠️
 
 👋 Hi there! I'm Gerasimos, a developer passionate about turning ideas into code. I’ve built a bunch of cool projects that range from useful web applications to quirky games—and I’m constantly on the lookout for the next thing to build. Below, you'll find the highlights of my portfolio, featuring my favorite creations and the skills I’ve mastered along the way. Let’s dive in! 🏊‍♂️
 
