@@ -1,6 +1,7 @@
 # 🚀 Gerasimos Kanellatos - Developer of Things 🛠️
 
-👋 Hello! I'm Gerasimos, a developer that loves to translate concepts into code. I've developed a number of interesting projects, from entertaining games to practical web apps, and I'm always searching for the next thing to create.
+👋 Hello! I'm Gerasimos, a developer that loves to translate concepts into code. 
+   I've developed a number of interesting projects, from entertaining games to practical web apps, and I'm always searching for the next thing to create.
 
 ---
 
