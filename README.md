@@ -1,8 +1,7 @@
 # 🚀 Gerasimos Kanellatos - Developer of Things 🛠️
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD5tMfMmEYZhxkc/giphy.gif" alt="Coding GIF" width="600"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Fun GIF" width="400"/>
 </p>
-
 👋 Hi there! As a software developer who is enthusiastic about turning ideas into code, my name is Gerasimos. I've developed a wide range of projects, from **funny games** to **useful web apps**, constantly looking for the next fascinating task to take on. 
 With a strong focus on **R&D** and **innovative technologies**, my expertise lies in **Python**, **IoT**, and **Cloud Computing**. I like to develop solutions that push beyond the limits of what is achievable while solving real-world problems. 🚀
 You may view my projects and what I'm working on right now by visiting my GitHub profile!
@@ -35,7 +34,7 @@ You may view my projects and what I'm working on right now by visiting my GitHub
 ---
 
 ## 🔗 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gerasimos-kan)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gerasimos-kanellatos-1488961b9/)
 - [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github)](https://github.com/GerasimosKan)
 
 ---
@@ -44,8 +43,4 @@ You may view my projects and what I'm working on right now by visiting my GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GerasimosKan&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerasimosKan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Fun GIF" width="600"/>
 </p>
