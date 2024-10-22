@@ -52,6 +52,27 @@ Feel free to check out my GitHub profile to explore my projects and see what I�
 ---
 
 
+## 🌱 What I'm Currently Learning
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 50%; border: none;">
+      <ul style="list-style-type: none; padding: 0;">
+        <li>📱 <strong>React Native</strong> for mobile app development.</li>
+        <li>🤖 <strong>Machine Learning</strong> to optimize IoT data.</li>
+        <li>☁️ <strong>Cloud architecture</strong> for scalable systems.</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top; width: 50%; border: none; text-align: right;">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+
+
 ## 🔗 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gerasimos-kanellatos-1488961b9/)
 - [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github)](https://github.com/GerasimosKan)
