@@ -1,10 +1,16 @@
 # 🚀 Gerasimos Kanellatos - Developer of Things 🛠️
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Fun GIF" width="400"/>
-</p>
-👋 Hi there! As a software developer who is enthusiastic about turning ideas into code, my name is Gerasimos. I've developed a wide range of projects, from **funny games** to **useful web apps**, constantly looking for the next fascinating task to take on. 
-With a strong focus on **R&D** and **innovative technologies**, my expertise lies in **Python**, **IoT**, and **Cloud Computing**. I like to develop solutions that push beyond the limits of what is achievable while solving real-world problems. 🚀
-You may view my projects and what I'm working on right now by visiting my GitHub profile!
+
+---
+
+👋 Hello! I'm Gerasimos, a software engineer dedicated to turning ideas into code. I have worked on a diverse array of projects, ranging from **entertaining games** to **practical web applications**, and I'm always on the lookout for my next exciting challenge.
+
+My work is centered around **R&D** and **cutting-edge technologies**, with a particular focus on **Python**, **IoT**, and **Cloud Computing**. I strive to create solutions that not only meet but exceed existing boundaries while addressing real-world issues. 🚀
+
+Feel free to check out my GitHub profile to explore my projects and see what I’m currently working on!
+
+
+
+
 
 ---
 
