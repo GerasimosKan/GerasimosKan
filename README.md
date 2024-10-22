@@ -34,19 +34,16 @@ Feel free to check out my GitHub profile to explore my projects and see what I�
 
 ## 🌱 What I'm Currently Learning
 
-<div style="display: flex; align-items: flex-start;">
-
-  <ul style="list-style-type: none; padding: 0; margin-right: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <ul style="list-style-type: none; padding: 0; flex: 1;">
     <li>📱 <strong>React Native</strong> for mobile app development.</li>
     <li>🤖 <strong>Machine Learning</strong> to optimize IoT data.</li>
     <li>☁️ <strong>Cloud architecture</strong> for scalable systems.</li>
   </ul>
-
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="500" style="border: none;"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" style="width: 100%; max-width: 400px; margin-left: 20px; border: none;"/>
 
 </div>
 
----
 
 
 
