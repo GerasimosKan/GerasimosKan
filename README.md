@@ -42,7 +42,7 @@ Feel free to check out my GitHub profile to explore my projects and see what I�
     <li>☁️ <strong>Cloud architecture</strong> for scalable systems.</li>
   </ul>
 
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300" style="margin-left: 20px;"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300" style="margin-right: 20px;"/>
 
 </div>
 
