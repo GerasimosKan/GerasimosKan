@@ -10,7 +10,9 @@
 
 ## 💡 Skills & Technologies
 
-- **Languages**: Python, JavaScript, C++
+- **Languages**: 
+            <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+          , JavaScript, C++
 - **Frameworks**: Flask, Docker, Unreal Engine, Tkinter
 - **Tools**: FFmpeg, Git, MQTT, VPS, MySQL
 - **Fun Stuff**: IoT, Game Development, Cloud Computing
