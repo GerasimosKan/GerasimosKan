@@ -33,9 +33,19 @@ Feel free to check out my GitHub profile to explore my projects and see what I�
 ---
 
 ## 🌱 What I'm Currently Learning
-- 📱 **React Native** for mobile app development.
-- 🤖 **Machine Learning** to optimize IoT data.
-- ☁️ **Cloud architecture** for scalable systems.
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+  <ul style="list-style-type: none; padding: 0;">
+    <li>📱 <strong>React Native</strong> for mobile app development.</li>
+    <li>🤖 <strong>Machine Learning</strong> to optimize IoT data.</li>
+    <li>☁️ <strong>Cloud architecture</strong> for scalable systems.</li>
+  </ul>
+
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300" style="margin-left: 20px;"/>
+
+</div>
+
 
 ---
 
