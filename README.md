@@ -67,11 +67,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerasimosKan&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" style="border-radius: 10px; margin: 10px;" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GerasimosKan&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats" style="border-radius: 10px; margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GerasimosKan&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="GitHub Stats" style="border-radius: 10px; margin: 10px;" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerasimosKan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="max-width: 400px;" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GerasimosKan&theme=radical&hide_border=true" alt="GitHub Streak Stats" style="max-width: 400px; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GerasimosKan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="max-width: 400px;" />
+</p>
+
 
 
 
