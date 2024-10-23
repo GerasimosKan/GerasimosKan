@@ -1,61 +1,72 @@
 # 🚀 Gerasimos Kanellatos - Developer of Things 🛠️
 
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=GerasimosKan.visitor-badge)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer+%7C+R%26D+%7C+IoT+%7C+Cloud+Computing)](https://git.io/typing-svg)
+
 ---
 
-👋 Hello! I'm Gerasimos, a software engineer dedicated to turning ideas into code. I have worked on a diverse array of projects, ranging from **entertaining games** to **practical web applications**, and I'm always on the lookout for my next exciting challenge.
+👋 Hello! I'm **Gerasimos Kanellatos**, a software engineer focused on turning ideas into code. I have worked on diverse projects from **games** to **web applications**, always seeking my next exciting challenge. My work spans **R&D**, **Python**, **IoT**, and **Cloud Computing**, constantly pushing boundaries to solve real-world problems.
 
-My work is centered around **R&D** and **cutting-edge technologies**, with a particular focus on **Python**, **IoT**, and **Cloud Computing**. I strive to create solutions that not only meet but exceed existing boundaries while addressing real-world issues. 🚀
-
-Feel free to check out my GitHub profile to explore my projects and see what I’m currently working on!
-
-
-
-
+Feel free to explore my [GitHub profile](https://github.com/GerasimosKan) to discover my projects and current endeavors!
 
 ---
 
 ## 💡 Skills & Technologies
 
 <p align="left">
-  <img alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="Flask" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-  <img alt="DJanko" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-  <img alt="FastAPI" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-  <img alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="MariaDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" />
-  <img alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Python" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=python" />
+  <img alt="JavaScript" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=javascript" />
+  <img alt="C++" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=cpp" />
+  <img alt="Java" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=java" />
+  <img alt="Flask" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=flask" />
+  <img alt="Django" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=django" />
+  <img alt="FastAPI" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=fastapi" />
+  <img alt="Docker" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=docker" />
+  <img alt="GitHub" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=github" />
+  <img alt="Linux" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=linux" />
+  <img alt="Git" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git" />
+  <img alt="MariaDB" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mariadb" />
+  <img alt="MySQL" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
 
 ## 🌱 What I'm Currently Learning
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <ul style="list-style-type: none; padding: 0; flex: 1;">
-    <li>📱 <strong>React Native</strong> for mobile app development.</li>
-    <li>🤖 <strong>Machine Learning</strong> to optimize IoT data.</li>
-    <li>☁️ <strong>Cloud architecture</strong> for scalable systems.</li>
-  </ul>
-</div>
-
-
-
-
-
-## 🔗 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gerasimos-kanellatos-1488961b9/)
-- [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github)](https://github.com/GerasimosKan)
+- 📱 **React Native** for mobile app development.
+- 🤖 **Machine Learning** to optimize IoT data.
+- ☁️ **Cloud architecture** for scalable systems.
 
 ---
 
-## 📈 GitHub Stats
+## 🔗 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gerasimos-kanellatos-1488961b9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/GerasimosKan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
+
+---
+
+## 🏆 Contribution Graph
+
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GerasimosKan&theme=radical" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=GerasimosKan&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerasimosKan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
