@@ -66,14 +66,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerasimosKan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="max-width: 400px;" />
+<p align="center" style="max-width: 100em;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GerasimosKan&theme=radical&hide_border=true" alt="GitHub Streak Stats" style="max-width: 200px; margin-right: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerasimosKan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="max-width: 200px;" />
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GerasimosKan&theme=radical&hide_border=true" alt="GitHub Streak Stats" style="max-width: 300px; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GerasimosKan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="max-width: 300px;" />
-</p>
 
 
 
