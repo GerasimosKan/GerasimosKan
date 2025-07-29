@@ -56,9 +56,8 @@
 ## 🌱 What I'm Currently Learning
 
 <p align="center" style="font-size: 1.1em;">
-  <span role="img" aria-label="Mobile App">📱</span> <strong>React Native</strong> for mobile app development.<br>
-  <span role="img" aria-label="Machine Learning">🤖</span> <strong>Machine Learning</strong> to optimize IoT data.<br>
-  <span role="img" aria-label="Cloud Architecture">☁️</span> <strong>Cloud Architecture</strong> for scalable systems.<br>
+  <span role="img" aria-label="Machine Learning">🤖</span> <strong>Machine Learning</strong><br>
+  <span role="img" aria-label="Cloud Architecture">☁️</span> <strong>Cloud Architecture</strong><br>
 </p>
 
 
