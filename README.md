@@ -11,7 +11,10 @@
 ## 👋 About Me
 
 <p align="center">
-Information Technology Engineer with experience in software development, automation, and system integration. Worked with Java, Groovy, Python, Spring Boot, and SQL on ERP and e-commerce solutions. Developed practical tools and applications, including IOT APIs and web dashboards. Enjoys teamwork, feedback, and ongoing learning.
+I am an information Technology Engineer with experience in software development, automation, and system integration
+I have worked with Java, Groovy, Python, Spring Boot and SQL.
+Developed practical tools and applications, including IOT APIs and web dashboards.
+Enjoys teamwork, feedback, and ongoing learning.
 </p>
 
 <p align="center" style="margin-top: 10px;">
