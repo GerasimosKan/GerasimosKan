@@ -62,11 +62,3 @@ Enjoys teamwork, feedback, and ongoing learning.
   <span role="img" aria-label="Machine Learning">🤖</span> <strong>Machine Learning</strong><br>
   <span role="img" aria-label="Cloud Architecture">☁️</span> <strong>Cloud Architecture</strong><br>
 </p>
-
-
-
-## 📫 How to Reach Me
-
-<p align="center">
-  Feel free to connect with me on <a href="https://www.linkedin.com/in/gerasimos-kanellatos-1488961b9/" target="_blank">LinkedIn</a>, explore my work on <a href="https://github.com/GerasimosKan" target="_blank">GitHub</a>, or send me an <a href="mailto:gerasimos@kanelatos.gr">email</a>.
-</p>
